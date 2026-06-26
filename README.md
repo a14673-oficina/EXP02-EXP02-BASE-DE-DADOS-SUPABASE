@@ -77,5 +77,7 @@ O projeto inclui:
 *   **Melhoria da UI/UX:** Aprimorar o design e a experiência do utilizador, incluindo feedback visual para campos incorretos, animações e um layout mais moderno.
 *   **Paginação/Pesquisa Avançada:** Para grandes volumes de dados, implementar paginação ou opções de pesquisa mais avançadas para melhorar a navegação.
 *   **Tratamento de Erros:** Implementar um tratamento de erros mais robusto e amigável ao utilizador.
+  
+##
 
 * Automatizado pelo Manus AI
